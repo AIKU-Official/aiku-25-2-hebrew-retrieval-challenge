@@ -1,14 +1,15 @@
 # aiku-25-2-hebrew-retrieval-challenge
 
 
-# aiku-25-2-beating_contest
 
 ## 소개
 Coda bench 에서 열린 challenge 로서 제한된 상황 속에서 수행하는 
 히브리어(이스라엘 언어) 문서 검색 challenge 입니다.
 
-대회 링크: https://www.codabench.org/competitions/9950/?ref=mlcontests#/pages-tab
-시도한 모델 노션 링크 : https://www.notion.so/aiku/287a7930e09c802fb0cae9d7f5e943a1?source=copy_link
+-대회 링크: https://www.codabench.org/competitions/9950/?ref=mlcontests#/pages-tab   
+-시도한 모델 노션 링크 : https://www.notion.so/aiku/287a7930e09c802fb0cae9d7f5e943a1?source=copy_link
+
+---
 
 # WORK DISTRIBUTION
 
@@ -42,7 +43,9 @@ and protocols from Knesset (Israeli parliament) committees.
 4 - paragraph has complete relevance to the query
 
 
-**주요 실험**
+---
+
+# **주요 실험**
 
 실험 흐름
 
