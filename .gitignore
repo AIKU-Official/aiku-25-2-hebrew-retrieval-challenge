@@ -1,0 +1,21 @@
+# Models & Artifacts
+**/models/
+**/model_seongeun/
+*.h5
+*.msgpack
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+tokenizer.json
+
+# Datasets
+*.jsonl
+*.npy
+**/dataset/
+**/trashcan/
+
+# OS/Logs
+.DS_Store
+*.log

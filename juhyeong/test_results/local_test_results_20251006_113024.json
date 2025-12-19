@@ -1,0 +1,346 @@
+[
+    {
+        "query": "1. באיזו שעה דן קם בבוקר?1. 단은 아침 몇 시에 일어났습니까?",
+        "results": [
+            {
+                "paragraph_uuid": "doc_0",
+                "score": 5.89453125
+            },
+            {
+                "paragraph_uuid": "doc_1",
+                "score": -10.859375
+            },
+            {
+                "paragraph_uuid": "doc_101",
+                "score": -10.96875
+            },
+            {
+                "paragraph_uuid": "doc_100",
+                "score": -10.96875
+            },
+            {
+                "paragraph_uuid": "doc_64",
+                "score": -10.96875
+            },
+            {
+                "paragraph_uuid": "doc_123",
+                "score": -10.9765625
+            },
+            {
+                "paragraph_uuid": "doc_150",
+                "score": -10.9765625
+            },
+            {
+                "paragraph_uuid": "doc_91",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_89",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_127",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_113",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_109",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_76",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_136",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_88",
+                "score": -10.9921875
+            },
+            {
+                "paragraph_uuid": "doc_87",
+                "score": -10.9921875
+            },
+            {
+                "paragraph_uuid": "doc_83",
+                "score": -10.9921875
+            },
+            {
+                "paragraph_uuid": "doc_77",
+                "score": -10.9921875
+            },
+            {
+                "paragraph_uuid": "doc_71",
+                "score": -10.9921875
+            },
+            {
+                "paragraph_uuid": "doc_97",
+                "score": -10.9921875
+            }
+        ],
+        "time_ms": 957.5831890106201
+    },
+    {
+        "query": "2. באמצעות מה דן יצא לעבודה?\t2. 단은 무엇을 이용하여 출근했습니까?",
+        "results": [
+            {
+                "paragraph_uuid": "doc_0",
+                "score": 3.451171875
+            },
+            {
+                "paragraph_uuid": "doc_2",
+                "score": -10.3203125
+            },
+            {
+                "paragraph_uuid": "doc_1",
+                "score": -10.6875
+            },
+            {
+                "paragraph_uuid": "doc_101",
+                "score": -10.9453125
+            },
+            {
+                "paragraph_uuid": "doc_128",
+                "score": -10.953125
+            },
+            {
+                "paragraph_uuid": "doc_200",
+                "score": -10.9609375
+            },
+            {
+                "paragraph_uuid": "doc_64",
+                "score": -10.9609375
+            },
+            {
+                "paragraph_uuid": "doc_112",
+                "score": -10.9609375
+            },
+            {
+                "paragraph_uuid": "doc_89",
+                "score": -10.9765625
+            },
+            {
+                "paragraph_uuid": "doc_35",
+                "score": -10.9765625
+            },
+            {
+                "paragraph_uuid": "doc_80",
+                "score": -10.9765625
+            },
+            {
+                "paragraph_uuid": "doc_99",
+                "score": -10.9765625
+            },
+            {
+                "paragraph_uuid": "doc_75",
+                "score": -10.9765625
+            },
+            {
+                "paragraph_uuid": "doc_92",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_82",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_88",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_85",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_86",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_97",
+                "score": -10.984375
+            },
+            {
+                "paragraph_uuid": "doc_39",
+                "score": -10.984375
+            }
+        ],
+        "time_ms": 813.218355178833
+    },
+    {
+        "query": "1. איזה מקום מפורסם אנשים מכל העולם באים לבקר בו?\t1. 전 세계의 사람들이 방문하러 오는 유명한 장소는 어디입니까?",
+        "results": [
+            {
+                "paragraph_uuid": "doc_1",
+                "score": 4.046875
+            },
+            {
+                "paragraph_uuid": "doc_0",
+                "score": -5.10546875
+            },
+            {
+                "paragraph_uuid": "doc_100",
+                "score": -8.3046875
+            },
+            {
+                "paragraph_uuid": "doc_101",
+                "score": -8.390625
+            },
+            {
+                "paragraph_uuid": "doc_128",
+                "score": -8.6875
+            },
+            {
+                "paragraph_uuid": "doc_200",
+                "score": -8.7421875
+            },
+            {
+                "paragraph_uuid": "doc_160",
+                "score": -8.8359375
+            },
+            {
+                "paragraph_uuid": "doc_99",
+                "score": -8.8828125
+            },
+            {
+                "paragraph_uuid": "doc_199",
+                "score": -8.9453125
+            },
+            {
+                "paragraph_uuid": "doc_80",
+                "score": -8.953125
+            },
+            {
+                "paragraph_uuid": "doc_150",
+                "score": -8.9921875
+            },
+            {
+                "paragraph_uuid": "doc_50",
+                "score": -9.0078125
+            },
+            {
+                "paragraph_uuid": "doc_111",
+                "score": -9.0078125
+            },
+            {
+                "paragraph_uuid": "doc_64",
+                "score": -9.0390625
+            },
+            {
+                "paragraph_uuid": "doc_40",
+                "score": -9.0390625
+            },
+            {
+                "paragraph_uuid": "doc_70",
+                "score": -9.046875
+            },
+            {
+                "paragraph_uuid": "doc_89",
+                "score": -9.0546875
+            },
+            {
+                "paragraph_uuid": "doc_125",
+                "score": -9.0546875
+            },
+            {
+                "paragraph_uuid": "doc_30",
+                "score": -9.078125
+            },
+            {
+                "paragraph_uuid": "doc_75",
+                "score": -9.09375
+            }
+        ],
+        "time_ms": 968.6408042907715
+    },
+    {
+        "query": "2. מה מאפיין את השווקים בירושלים בערב?\t2. 저녁의 예루살렘 시장들을 특징짓는 것은 무엇입니까?",
+        "results": [
+            {
+                "paragraph_uuid": "doc_1",
+                "score": 5.21484375
+            },
+            {
+                "paragraph_uuid": "doc_2",
+                "score": -11.0
+            },
+            {
+                "paragraph_uuid": "doc_0",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_77",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_97",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_70",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_200",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_90",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_82",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_96",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_75",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_162",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_155",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_117",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_76",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_89",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_7",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_93",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_157",
+                "score": -11.03125
+            },
+            {
+                "paragraph_uuid": "doc_137",
+                "score": -11.03125
+            }
+        ],
+        "time_ms": 969.1848754882812
+    }
+]

@@ -1,0 +1,15 @@
+Q1 Q0 d2 1 -10.562500 hebert_bge_local
+Q1 Q0 d1 2 -10.710938 hebert_bge_local
+Q1 Q0 d3 3 -10.796875 hebert_bge_local
+Q1 Q0 d0 4 -10.820312 hebert_bge_local
+Q1 Q0 d4 5 -10.820312 hebert_bge_local
+Q2 Q0 d2 1 -10.304688 hebert_bge_local
+Q2 Q0 d4 2 -10.367188 hebert_bge_local
+Q2 Q0 d3 3 -10.460938 hebert_bge_local
+Q2 Q0 d1 4 -10.585938 hebert_bge_local
+Q2 Q0 d0 5 -10.640625 hebert_bge_local
+Q3 Q0 d2 1 -11.304688 hebert_bge_local
+Q3 Q0 d3 2 -11.421875 hebert_bge_local
+Q3 Q0 d0 3 -11.945312 hebert_bge_local
+Q3 Q0 d4 4 -11.953125 hebert_bge_local
+Q3 Q0 d1 5 -12.132812 hebert_bge_local
