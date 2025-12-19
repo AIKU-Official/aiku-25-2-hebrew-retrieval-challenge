@@ -1,4 +1,4 @@
-<img width="1077" height="507" alt="image" src="https://github.com/user-attachments/assets/9a1878aa-3465-4533-ae61-87333aabdcc3" /># aiku-25-2-hebrew-retrieval-challenge
+# aiku-25-2-hebrew-retrieval-challenge
 
 
 # aiku-25-2-beating_contest
@@ -41,8 +41,6 @@ and protocols from Knesset (Israeli parliament) committees.
 3 - paragraph has strong relevance to the query
 4 - paragraph has complete relevance to the query
 
-
-<img width="826" height="692" alt="image" src="https://github.com/user-attachments/assets/4d142c95-69ea-4808-a20e-16927e091166" />
 
 **주요 실험**
 
@@ -125,16 +123,16 @@ and protocols from Knesset (Israeli parliament) committees.
 **( reranker ) BGE Reranker 사용** 
 
 **결과 평가**  : 
+<img width="1800" height="355" alt="image" src="https://github.com/user-attachments/assets/ee2b178a-39e5-49af-847a-f6e16cb5c38e" />
 
-![image.png](attachment:a16cce47-ebf0-422e-adca-65fc2e5ae30a:db6a5a3d-dd9a-47c6-8985-9873401b7ab1.png)
+
 
 0.417로 baseline 보다 개선 및 13등 등록
 
 **훈련 시도 6 *(SOTA)**
 
 troubleshooting
-
-![image.png](attachment:77470829-9bca-447e-85c9-2264441df619:bd2aef6b-3515-4746-952a-ca76fdac887e.png)
+<img width="623" height="648" alt="image" src="https://github.com/user-attachments/assets/eddc3f25-f038-441f-9081-a2012324bf74" />
 
 train data 에 대해서 아예 점수가 0.0000이 나와서 NDCG@20 점수가  안나옴을 확인
 
@@ -143,14 +141,12 @@ train data 에 대해서 아예 점수가 0.0000이 나와서 NDCG@20 점수가 
 → TF-IDF / BM25 를 retriever 에 추가
 
 **< 최종 결과 >**
-
-![image.png](attachment:f2a4b56c-77e1-48ec-b6a3-e5a1a2da064c:image.png)
+<img width="1110" height="261" alt="image" src="https://github.com/user-attachments/assets/b0feda62-28b1-4af7-ada5-edc5ee829531" />
 
 ## 결과
 
 Private score (nDCG@20) : 0.6399 (8등)
-
-![image.png](attachment:ff8eba9d-e1e4-45a0-a908-808d9df25162:image.png)
+<img width="876" height="2637" alt="image" src="https://github.com/user-attachments/assets/64c3fdfa-9dd1-4aca-9e5a-644d322fdd56" />
 
 ## 한계 분석
 
@@ -159,14 +155,12 @@ Private score (nDCG@20) : 0.6399 (8등)
 < 모델 양자화  / 경량화  > 
 
 이번 대회에서의 inference time이 query당 2초로 생각보다 시간 초과가 발생하는 경우가 많았음
-
-![image.png](attachment:ce87a315-284a-4742-abca-6c69c7630296:image.png)
+<img width="943" height="784" alt="image" src="https://github.com/user-attachments/assets/b2aeed6b-a925-484f-a228-6713a9e19583" />
 
 이번 대회의 경우 
 
 <LLM을 이용한 데이터 증강 및 finetuning> 
-
-![image.png](attachment:7e2e5f6c-0cfa-449a-9ffd-77021abe2915:image.png)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2e31cdc0-c7b2-43e4-8dab-8d43a607967d" />
 
 결국 retriever 는 bi-encoder 이고 e5의 경우 어떤지 모르겠지만 일단 A B 양 측 parameter 를 공유한다고 가정.
  여기에다가 우리가 <Document, Query> pair 를 많이 많이 만들어야 제대로 fine-tuning 할 수 있음.
